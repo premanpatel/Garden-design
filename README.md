@@ -1,10 +1,10 @@
 # CISC275-Group-7 Project
 
 #### Contributors 
-Ryan Bilash
-JD Wong
-Alex You
-Patrick Taylor
+Ryan Bilash,
+JD Wong,
+Alex You,
+Patrick Taylor,
 Premanshu Patel
 
 
