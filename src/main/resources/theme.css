@@ -1,0 +1,90 @@
+.button {
+	-fx-background-color: #29a39f;
+	-fx-text-fill: white;
+	-fx-font-size: 18;
+	-fx-background-radius: 16px;
+}
+
+.button:hover {
+	-fx-background-color: #34ccc6;
+	-fx-scale-y: 1.1;
+    -fx-scale-x: 1.1;
+}
+
+.button:pressed {
+    -fx-scale-y: 0.9;
+    -fx-scale-x: 0.9;
+}
+
+.root {
+	-fx-font-size: 18;
+	-fx-font-weight: bold;
+}
+
+.label1 {
+	-fx-text-fill: white;
+}
+
+.label2 {
+	-fx-background-color: linear-gradient(to bottom, #164a41, #bbdbaf);
+	-fx-background-radius: 5px;
+}
+
+.flowpane > HBox {
+	-fx-background-color: #164a41;
+	-fx-background-radius: 5px;
+}
+
+.table {
+	-fx-font-size:16;
+}
+
+.polygon { 
+	-fx-background-color: #9dc88d,
+		linear-gradient(from 0.5px 0.0px to 10.5px  0.0px, repeat, black 5%, transparent 5%),
+        	linear-gradient(from 0.0px 0.5px to  0.0px 10.5px, repeat, black 5%, transparent 5%);
+}
+
+.polygon2 { 
+	-fx-background-color: #9dc88d,
+		linear-gradient(from 0.5px 0.0px to 20.5px  0.0px, repeat, white 5%, transparent 5%),
+        	linear-gradient(from 0.0px 0.5px to  0.0px 20.5px, repeat, white 5%, transparent 5%);
+}
+
+.popup {
+	-fx-background-radius: 12px;
+	-fx-background-color: #164A41;
+	-fx-text-fill: white;
+}
+.table-row-cell: odd{
+    -fx-background-color: #9DC88D;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+.table-row-cell: even{
+    -fx-background-color: #4D774E;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+.list-cell: odd{
+    -fx-background-color: #9DC88D;
+}
+.list-cell: even{
+    -fx-background-color: #4D774E;
+}
+
+.large-text {
+	-fx-font-size: 32;
+}
+
+.split-pane:horizontal {
+	-fx-background-color: #9dc88d;
+}
+
+.split-pane:horizontal > .split-pane-divider {
+   -fx-background-color: #164a41;
+}
+
+.background {
+	-fx-background-color: #164a41;
+}
