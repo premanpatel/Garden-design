@@ -1,5 +1,13 @@
 # CISC275-Group-7 Project
 
+#### Contributors 
+Ryan Bilash
+JD Wong
+Alex You
+Patrick Taylor
+Premanshu Patel
+
+
 Our project is named Native Garden Designer, and is designed to help a beginner gardener easily build a garden full of native plants to support
 butterflies and moths in our area.
 
